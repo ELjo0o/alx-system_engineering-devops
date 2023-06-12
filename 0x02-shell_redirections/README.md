@@ -1,1 +1,1 @@
-print pwd
+readME FILE
